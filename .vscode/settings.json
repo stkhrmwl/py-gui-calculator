@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "python.pythonPath": "/Users/takahara/cpsworkspace/py-gui-calculator/.venv/bin/python",
+  "python.formatting.autopep8Path": "/Users/takahara/cpsworkspace/py-gui-calculator/.venv/bin/autopep8",
+}

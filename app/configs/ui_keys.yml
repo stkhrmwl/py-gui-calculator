@@ -1,0 +1,19 @@
+nums:
+  - 7
+  - 8
+  - 9
+  - 4
+  - 5
+  - 6
+  - 1
+  - 2
+  - 3
+  - 0
+number: --num_{}--
+add: --add--
+sub: --sub--
+mul: --mul--
+div: --div--
+equal: --equal--
+clear: --clear--
+expression: --expression--
